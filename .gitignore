@@ -6,4 +6,5 @@ tokens.json
 .DS_Store
 Thumbs.db
 sessions.json
+session.json
 .claude/settings.local.json
