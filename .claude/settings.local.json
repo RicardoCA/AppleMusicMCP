@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__apple-music__apple_music_status",
+      "mcp__apple-music__search_music",
+      "mcp__apple-music__create_playlist"
+    ]
+  }
+}
